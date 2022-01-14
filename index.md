@@ -10,6 +10,8 @@ System.out.println("hello world");
 * finish cse12 pa2
 * [(╯°□°）╯︵ ┻━┻](https://youtu.be/dQw4w9WgXcQ)
 
+![Image](screenshot.png)
+
 [Link][1]
 ⋮
 [1]: https://youtu.be/dQw4w9WgXcQ
