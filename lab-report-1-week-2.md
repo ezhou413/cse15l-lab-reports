@@ -1,1 +1,1 @@
-lab report
+![Image](screenshot.png)
