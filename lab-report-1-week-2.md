@@ -3,9 +3,9 @@
 In this tutorial, you will learn how to log into your course specific ieng6 account. The ieng6 computers are the computers in the basement of the engineering building at UCSD, and through this tutorial, you will learn how to remotely connect to those computers from anywhere. 
 
 ## Step 1
-First, find your account login information here: https://sdacs.ucsd.edu/~icc/index.php
+First, find your account login information here: [Link](https://sdacs.ucsd.edu/~icc/index.php)
 
-Next, install Visual Studio Code (VSCode) from this link: https://code.visualstudio.com/download
+Next, install Visual Studio Code (VSCode) from this link: [Link](https://code.visualstudio.com/download)
 
 Follow the installation process, and once you're done, you should see a screen that looks something like this:
 
